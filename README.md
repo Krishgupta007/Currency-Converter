@@ -6,7 +6,7 @@ A simple and elegant currency converter that allows users to convert between ove
 
 ## 🚀 Live Demo
 
-🌐 [Click Here to Try It Live](https://your-username.github.io/currency-converter)
+🌐 [Click Here to Try It Live]([https://your-username.github.io/currency-converter](https://krishgupta007.github.io/Currency-Converter/))
 
 ---
 
